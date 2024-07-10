@@ -1,0 +1,8 @@
+New user Authenticated!
+Username: Aadheeshwar
+Password: Aadhee270204
+URL: /api/checkLoggerData/Aadheeshwar/Aadhee270204
+Date: 7/10/2024, 9:55:02 PM
+Method Type: POST
+Status: Authentication Successful 
+
